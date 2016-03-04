@@ -1,0 +1,17 @@
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\repository\CustomerRepository.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\Customer.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\repository\ProductRepository.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\controller\ProductController.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\CustomerService.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\ProductService.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\impl\OrderServiceImpl.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\OrderService.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\controller\OrederController.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\repository\impl\InMemoryCustomerRepository.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\impl\CustomerServiceImpl.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\controller\HomeController.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\repository\impl\InMemoryProductRepository.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\controller\LoginController.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\domain\Product.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\service\impl\ProductServiceImpl.java
+C:\Users\xxx\workspace-sts-3.7.2.RELEASE\webstore\src\main\java\com\packt\webstore\controller\CustomerController.java
